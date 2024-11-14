@@ -51,8 +51,3 @@ The graphical user interface includes the following fields and buttons:
     - **Clear Inputs**: Clears all input fields.
     - **Export to Excel**: Exports the amortization schedule to an Excel file.
     - **Load from Database**: Loads loan data from an SQLite database.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
